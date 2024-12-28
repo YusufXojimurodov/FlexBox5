@@ -1,0 +1,44 @@
+.logo{
+    padding-right: 600px;
+}
+.flex-parent {
+    width: 94%;
+    height: 20px;
+    padding: 20px;
+    padding-right: 60px;
+    gap: 60px;
+    background-color: #282829;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+}
+.PArent{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+.text{
+   width: 390px;
+}
+.PArent2{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 60px;
+}
+.parent{
+    margin-top: 80px;
+}
